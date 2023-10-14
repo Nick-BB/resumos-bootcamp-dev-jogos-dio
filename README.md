@@ -6,7 +6,8 @@ Resumos do Bootcamp de Desenvolvimento de Jogos da [Digital Innovation One](http
 ## |🌐 Links importantes |
 - [Editor MarkDown Online](https://readme.so/pt);
 - [Documentação Git](https://git-scm.com/doc);
-- [Documentação GitHub](https://docs.github.com/pt).
+- [Documentação GitHub](https://docs.github.com/pt);
+- [Sintaxe Básica MarkDowm](https://www.markdownguide.org/basic-syntax/) - O site está em inglês.
 
 O **Editor Markdown Online** é somente uma **_alternativa_** para editar os arquivos .md, **_outras alternativas_** podem ser:
 - Usar o editor de texto que vc tá **_confortável_** (exemplo: VS Code, entre outros, ...);
