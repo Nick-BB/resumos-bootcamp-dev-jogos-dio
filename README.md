@@ -1,6 +1,6 @@
 # Resumos do Bootcamp de Dev de Jogos
-Resumos do Bootcamp de Desenvolvimento de Jogos da [Digital Innovation One] (https://www.dio.me)
-|Fiz esse resumo com o intuito de me ajudar enquanto aprendo a usar o Git e GitHub, então se você está na mesma situação sinta=se livre para utiliza-lo.|
+Resumos do Bootcamp de Desenvolvimento de Jogos da [Digital Innovation One](https://www.dio.me)
+- |Fiz esse resumo com o intuito de me ajudar enquanto aprendo a usar o Git e GitHub, então se você está na mesma situação sinta=se livre para utiliza-lo.|
 
 ## |🌐 Links importantes |
 - [Editor MarkDown Online](https://readme.so/pt);
