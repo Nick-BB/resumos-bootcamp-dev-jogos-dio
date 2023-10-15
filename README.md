@@ -10,5 +10,5 @@ Resumos do Bootcamp de Desenvolvimento de Jogos da [Digital Innovation One](http
 - [Sintaxe Básica MarkDowm](https://www.markdownguide.org/basic-syntax/) - O site está em inglês.
 
 O **Editor Markdown Online** é somente uma **_alternativa_** para editar os arquivos .md, **_outras alternativas_** podem ser:
-- Usar o editor de texto que vc tá **_confortável_** (exemplo: VS Code, entre outros, ...);
+- Usar o editor de texto que você está mais **_confortável_** (exemplo: VS Code, entre outros, ...);
 - O próprio GitHub.
