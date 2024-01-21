@@ -20,7 +20,7 @@
 - `git add .` :
     - Prepara todos os arquivos alterados para serem commitados.
 - `git status` :
-    - Mostra arquvios que foram alterados;
+    - Mostra arquivos que foram alterados;
     - Mostra arquivos prontos para serem commitados.
 - `git log` :
     - Mostra todos os commits realizados.
